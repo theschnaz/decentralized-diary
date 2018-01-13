@@ -1,0 +1,10 @@
+{
+  "name": "Decentralized Diary",
+  "start_url": "",
+  "description": "A decentralized diary, just for you.",
+  "icons": [{
+    "src": "https://78.media.tumblr.com/775de8eb8487af171fa0cf9ad1620f23/tumblr_o03a0qc0Ne1v05zj7o1_500.gif",
+    "sizes": "400x400",
+    "type": "image/png"
+  }]
+}
