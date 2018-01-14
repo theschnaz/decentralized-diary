@@ -1,0 +1,11 @@
+{
+ "name": "decentralized_diary",
+ "version": "4.0.0",
+ "description": "A decentralized diary, just for you, built on Blockstack",
+  "author": "Gregory Schnese <theschnaz@gmail.com>",
+ "author": "Gregory Schnese",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
